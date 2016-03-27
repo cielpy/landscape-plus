@@ -2,6 +2,8 @@
 menu:
   Home: /
   Archives: /archives
+  Wiki: https://wiki.imciel.com
+  About: /about
 rss: /atom.xml
 
 # Content
@@ -13,11 +15,9 @@ mathjax: false
 sidebar: right
 widgets:
 - category
-- tag
 - tagcloud
 - archive
 - recent_posts
-- links
 
 # Links
 links:
@@ -25,15 +25,15 @@ links:
   热前端: http://reqianduan.com
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-51259806-3
 favicon: /favicon.png
-twitter:
+twitter: cielpy5
 google_plus:
 fb_admins: 
 fb_app_id:
 
 # Duoshuo
-duoshuo_shortname: 
+duoshuo_shortname: imciel
 
 # Baidu share
 baidushare: true
